@@ -1,0 +1,74 @@
+body,html{
+    padding: 0;
+    margin: 0;
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+.logo{
+    text-align: center;
+}
+
+.menu{
+    padding-bottom: 50px;
+}
+
+.menu a {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-right: 40px;
+}
+ .menu a:hover{
+     background-color: rgba(243, 28, 28, 0.664);
+     border-radius: 24px;
+     transition: 0.5s;
+ }
+
+ .carouss{
+     padding-bottom: 50px;
+ }
+
+ .loggo{
+    
+    color: rgb(29, 127, 238);
+    font-size: 40px;
+}
+.loggo1{
+    padding-top: 30px;
+    padding-bottom: 40px;
+    color: black;
+    font-size: 40px;
+}
+.loggo2{
+    color: rgb(39, 83, 230);
+    font-size: 40px;
+}
+
+footer{
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.39);
+    color: white;
+}
+
+section{
+    padding: 10px;
+}
+
+h2{
+    
+    font-family: 'Montserrat', sans-serif;
+}
+.premier p{
+    color: white;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+}
+hr{
+    border-top : 3px solid #8fb93d;
+}
+
+.hr1{
+    border-top : 1px solid #8fb93d;
+}
